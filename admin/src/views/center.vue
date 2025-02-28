@@ -187,7 +187,7 @@
             color: 'inherit',
           }"
           v-if="flag == 'gongsi'"
-          label="装修公司封面"
+          label="装修公司的封面"
           prop="gongsifengmian"
         >
           <file-upload
